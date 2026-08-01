@@ -1,8 +1,8 @@
-# CUDA HPC Portfolio — Innocent Kisoka
+# CUDA HPC Portfolio
 
 Hands-on **CUDA C++**, **GPU-accelerated Python**, and **parallel HPC** (MPI + CUDA), from the **CSCS–USI Summer School 2026** (Effective HPC & Data Analytics).
 
-**→ Read first: [EXPERIENCE.md](./EXPERIENCE.md)** — clear mapping of my hands-on work to GPU/HPC/AI systems job requirements (CUDA, profiling, MPI, clusters, frameworks — **honest and direct**).
+**→ Read first: [EXPERIENCE.md](./EXPERIENCE.md)** — clear mapping of my hands-on work to GPU/HPC/AI systems job requirements (CUDA, profiling, MPI, clusters, frameworks — ).
 
 ---
 
@@ -18,8 +18,7 @@ Hands-on **CUDA C++**, **GPU-accelerated Python**, and **parallel HPC** (MPI + C
 | **Full apps** | Multi-module PDE mini-app (debug operators + linalg + data movement) |
 | **Clusters** | CSCS-class HPC environment, batch job scripts, multi-process GPU runs |
 
-**Not claimed without separate experience:** production LLM training on thousands of GPUs, or owning Megatron/NeMo/vLLM internals.  
-**Claimed:** strong GPU compute layer + parallel-app debugging foundation those roles require.
+
 
 ---
 
@@ -35,15 +34,15 @@ Hands-on **CUDA C++**, **GPU-accelerated Python**, and **parallel HPC** (MPI + C
 
 ---
 
-## CV one-liner
+
 
 > Hands-on CUDA C++ and GPU-accelerated Python: custom kernels, shared-memory stencils, async multi-stream pipelines, PDE mini-apps, and MPI+CUDA domain decomposition (CSCS–USI HPC Summer School). Public portfolio: github.com/InnocentKisoka/cuda-hpc-portfolio
 
 ---
 
-## How this maps to common job themes
 
-| Job asks for… | See… |
+
+|  | See… |
 |---------------|------|
 | CUDA / CPU–GPU architecture | [EXPERIENCE.md](./EXPERIENCE.md) § GPU architecture · repos 1–2 |
 | Profiling / bottlenecks / Nsight-style work | EXPERIENCE § Performance · `cuda-memory-and-kernels`, `cuda-async-pipelines` |
@@ -53,7 +52,6 @@ Hands-on **CUDA C++**, **GPU-accelerated Python**, and **parallel HPC** (MPI + C
 | Assist customers / NVIDIA platforms / efficiency | EXPERIENCE § Collaboration-style work |
 | LLM frameworks (PyTorch, Megatron, vLLM, …) | EXPERIENCE § AI frameworks — **compute-layer readiness**, not production ownership yet |
 
-Full table and CV bullets: **[EXPERIENCE.md](./EXPERIENCE.md)**
 
 ---
 
@@ -67,11 +65,6 @@ done
 
 ---
 
-## Honest note
 
-Projects are **portfolio demonstrations** from CSCS–USI Summer School CUDA training, completed and cleaned for public use. They show real implementation skill—not inventing a full production training stack from scratch.
 
----
 
-**Innocent Kisoka** · 2026  
-[EXPERIENCE.md](./EXPERIENCE.md) · [APPLICATIONS.md](./APPLICATIONS.md)
