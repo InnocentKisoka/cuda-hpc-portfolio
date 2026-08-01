@@ -2,7 +2,6 @@
 
 Hands-on **CUDA C++**, **GPU-accelerated Python**, and **parallel HPC** (MPI + CUDA), from the **CSCS–USI Summer School 2026** (Effective HPC & Data Analytics).
 
-**→ Read first: [EXPERIENCE.md](./EXPERIENCE.md)** — clear mapping of my hands-on work to GPU/HPC/AI systems job requirements (CUDA, profiling, MPI, clusters, frameworks — ).
 
 ---
 
