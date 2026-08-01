@@ -1,7 +1,7 @@
 # Push full source code to GitHub (one command)
 
-Repositories already exist under **InnocentKisoka** with professional READMEs.
-Full CUDA source is prepared locally. Publish it with:
+Repositories already exist under **InnocentKisoka** .
+
 
 ```bash
 cd ~/cuda-portfolio
